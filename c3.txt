@@ -1,1 +1,5 @@
+changed c3<<<<<<< HEAD
 c3new
+=======
+c3
+>>>>>>> first

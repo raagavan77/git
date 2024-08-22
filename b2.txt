@@ -1,1 +1,5 @@
+chenged b2<<<<<<< HEAD
 b2new
+=======
+b2
+>>>>>>> first

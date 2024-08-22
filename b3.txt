@@ -1,1 +1,5 @@
+changed b3<<<<<<< HEAD
 b3new
+=======
+b3
+>>>>>>> first

@@ -1,1 +1,5 @@
+chenged c1<<<<<<< HEAD
 c1new
+=======
+c1
+>>>>>>> first
